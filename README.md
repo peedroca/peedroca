@@ -20,7 +20,7 @@
       </td>
     </tr>
       <td align="center">        
-        <a href="www.linkedin.com/in/devpedroh">
+        <a href="https://www.linkedin.com/in/devpedroh">
           <image width="32px" alt="LinkedIn" src="https://i.imgur.com/OQUXwNp.jpg">
         </a>
         <a href="https://stackoverflow.com/users/12460526/peedroca?tab=profile">
